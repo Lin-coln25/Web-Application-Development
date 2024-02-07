@@ -1,5 +1,5 @@
 let correctEmail='masangalincoln@gmail.com';
-let correctpassword='22u4491eve';
+let correctpassword='22u4491eve@2024';
 
 let email=prompt("Enter your email");
 let password=prompt("Enter your password");
